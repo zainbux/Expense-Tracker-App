@@ -1,4 +1,4 @@
-# Todo-List-App
+# Expense-Tracker-App
 This project was created using the MERN stack or MonogDB, Express, React, and Node.js
 This app was built to help me futher understand full stack devlopment and to utilize all the skills I have learned in both front-end and back-end web development, The app is designed to be scaled higher so it was made modular with routers and uses REDUX to supply component data from a global store.
 
